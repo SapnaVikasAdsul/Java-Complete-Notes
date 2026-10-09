@@ -1,7 +1,5 @@
 # Java Interview Prep Notes (Reviewed & Corrected)
 
-> Cleaned up from your original notes. Fixed a few inaccurate statements (flagged with ⚠️ **Fixed** below) and filled in a couple of questions you'd left blank, marked ✅ **Added**. Everything else is your original content, just reformatted.
-
 ---
 
 ## 1. How a Java Program Runs
